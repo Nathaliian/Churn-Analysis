@@ -76,18 +76,13 @@ customer-churn-analysis/
 │
 ├── 📓 Customer_Churn_Data.ipynb    ← Main ML notebook
 │
-├── 📁 data/
-│   └── churn_data_sample.csv       ← Sample dataset
+├── 📁 
+│   └── Customer_Data.csv       ←  dataset
 │
-├── 📁 dashboard/
+├── 📁 
 │   ├── Power_BI_Summary.png        ← Business overview
 │   └── Power_BI_Prediction.png     ← Prediction results
-│
-├── 📁 model/
-│   └── random_forest_model.pkl     ← Trained model
-│
-├── 📄 requirements.txt
-└── 📄 README.md
+│└── 📄 README.md
 ```
 
 ---
