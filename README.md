@@ -20,10 +20,13 @@ This project builds an ML pipeline that flags high-risk customers and provides v
 ## 🖥️ Dashboard Preview
 
 ### Summary Dashboard — Business Overview
-![Churn Analysis Summary Dashboard](Power BI.png)
+<img width="1356" height="726" alt="Power BI" src="https://github.com/user-attachments/assets/6fa27cdf-0edd-403f-b88a-7218617c6be1" />
+
+
 
 ### Prediction Dashboard — At-Risk Customers
-![Churn Prediction Dashboard](dashboard/Power_BI_Prediction.png)
+<img width="1326" height="725" alt="Power bi prediction" src="https://github.com/user-attachments/assets/7f7480fc-3a97-4393-a9f6-9691ecd71c3a" />
+
 
 ---
 
