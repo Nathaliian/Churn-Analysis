@@ -97,11 +97,8 @@ customer-churn-analysis/
 
 ```bash
 # 1. Clone the repository
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the notebook
-jupyter notebook Customer_Churn_Data.ipynb
+# 2. Launch the notebook
+jupyter notebook Customer_Data.ipynb
 ```
 
 ---
